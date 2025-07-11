@@ -8,7 +8,3 @@ Diez Nicolas y Barbé Dante:
     - Conexión con Strapi en el frontend.
     - Visualización de lista de series obtenidas.
     - Implementación de los gráficos informativos con Google Chart.
-
-
-
-
